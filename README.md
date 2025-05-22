@@ -57,4 +57,4 @@ The player starts with one ball. Every **5 points**, a new ball is introduced, a
 
 ## 📷 Gameplay
 
-![Gameplay](https://drive.google.com/file/d/1-W72vM9GKahwqG_QvDQsyeDjl3d3hdLf/view?usp=sharing)
+[Gameplay Video](https://drive.google.com/file/d/1-W72vM9GKahwqG_QvDQsyeDjl3d3hdLf/view?usp=sharing)
