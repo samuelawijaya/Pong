@@ -1,4 +1,10 @@
 # 🕹️ Perpetual Pong
+
+[![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Platform](https://img.shields.io/badge/Platform-Terminal%20(Console)-333333?style=for-the-badge)]()
+[![Graphics](https://img.shields.io/badge/Graphics-ASCII%20Rendering-8B008B?style=for-the-badge)]()
+[![Input](https://img.shields.io/badge/Input-Keyboard-556B2F?style=for-the-badge)]()
+
 This project is a dynamic, terminal-based implementation of **Pong**, developed in **C++**. Built for continuous gameplay, it features real-time motion, dynamic difficulty scaling, and responsive keyboard input — all rendered in the console using ASCII characters.
 
 Inspired by classic Pong mechanics but enhanced for long-term playability, the game ramps up challenge by shrinking the paddle and adding more balls as the player scores.
